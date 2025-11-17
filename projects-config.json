@@ -1,0 +1,17 @@
+{
+  "supabaseUrl": "https://rnjcpableasmvoiedkqr.supabase.co",
+  "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJuamNwYWJsZWFzbXZvaWVka3FyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDA2ODE0MTYsImV4cCI6MjA1NjI1NzQxNn0.iBYTjPmMxnURRdrUlndyHGqSbipxBKbGf8vbrXAIWfA",
+  "projects": [
+    {
+      "id": "saelistrasse",
+      "name": "saelistrasse",
+      "paths": {
+        "pdfs": "saelistrasse/pdfs",
+        "outputImages": "saelistrasse/output_images",
+        "outputTiles": "saelistrasse/output_tiles",
+        "teamsFile": "saelistrasse/pdfs/teams.json"
+      }
+    }
+  ],
+  "defaultProject": "saelistrasse"
+} 
